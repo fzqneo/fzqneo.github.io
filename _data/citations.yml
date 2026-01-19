@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-05'
+  last_updated: '2026-01-19'
 papers:
   3ADT4qIAAAAJ:0EnyYjriUFMC:
     citations: 3
@@ -54,7 +54,7 @@ papers:
     title: Edge-based live video analytics for drones
     year: '2019'
   3ADT4qIAAAAJ:_FxGoFyzp5QC:
-    citations: 40
+    citations: 41
     title: 'Openrtist: End-to-end benchmarking for edge computing'
     year: '2020'
   3ADT4qIAAAAJ:d1gkVwhDpl0C:
@@ -82,7 +82,7 @@ papers:
     title: Human-efficient Discovery of Edge-based Training Data for Visual Machine Learning
     year: '2022'
   3ADT4qIAAAAJ:u-x6o8ySG0sC:
-    citations: 103
+    citations: 104
     title: 'Byteslice: Pushing the envelop of main memory data processing with a new storage layout'
     year: '2015'
   3ADT4qIAAAAJ:u5HHmVD_uO8C:
@@ -94,6 +94,6 @@ papers:
     title: Edge computing for legacy applications
     year: '2020'
   3ADT4qIAAAAJ:zYLM7Y9cAGgC:
-    citations: 274
+    citations: 276
     title: Bandwidth-efficient live video analytics for drones via edge computing
     year: '2018'
