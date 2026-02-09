@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-01-19'
+  last_updated: '2026-02-09'
 papers:
   3ADT4qIAAAAJ:0EnyYjriUFMC:
-    citations: 3
+    citations: 2
     title: Accelerating Silent Witness Storage
     year: '2022'
   3ADT4qIAAAAJ:2osOgNQ5qMEC:
@@ -42,7 +42,7 @@ papers:
     title: BAWEJA, Anubhav CMU-CS-21-133 BOHRER, Rose CMU-CS-21-115 BOLLU, Anand CMU-CS-21-124 CAVALLO, Evan CMU-CS-21-100
     year: Unknown Year
   3ADT4qIAAAAJ:WF5omc3nYNoC:
-    citations: 94
+    citations: 96
     title: Towards scalable edge-native applications
     year: '2019'
   3ADT4qIAAAAJ:Y0pCki6q_DkC:
@@ -54,7 +54,7 @@ papers:
     title: Edge-based live video analytics for drones
     year: '2019'
   3ADT4qIAAAAJ:_FxGoFyzp5QC:
-    citations: 41
+    citations: 43
     title: 'Openrtist: End-to-end benchmarking for edge computing'
     year: '2020'
   3ADT4qIAAAAJ:d1gkVwhDpl0C:
@@ -94,6 +94,6 @@ papers:
     title: Edge computing for legacy applications
     year: '2020'
   3ADT4qIAAAAJ:zYLM7Y9cAGgC:
-    citations: 276
+    citations: 277
     title: Bandwidth-efficient live video analytics for drones via edge computing
     year: '2018'
