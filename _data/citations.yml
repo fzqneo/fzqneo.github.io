@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-25'
+  last_updated: '2026-03-20'
 papers:
   3ADT4qIAAAAJ:0EnyYjriUFMC:
     citations: 3
@@ -70,7 +70,7 @@ papers:
     title: 2021 Theses by Author
     year: Unknown Year
   3ADT4qIAAAAJ:kNdYIx-mwKoC:
-    citations: 4
+    citations: 6
     title: Low-bandwidth self-improving transmission of rare training data
     year: '2023'
   3ADT4qIAAAAJ:qjMakFHDy7sC:
@@ -94,6 +94,6 @@ papers:
     title: Edge computing for legacy applications
     year: '2020'
   3ADT4qIAAAAJ:zYLM7Y9cAGgC:
-    citations: 279
+    citations: 280
     title: Bandwidth-efficient live video analytics for drones via edge computing
     year: '2018'
