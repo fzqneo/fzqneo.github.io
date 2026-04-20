@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-08'
+  last_updated: '2026-04-20'
 papers:
   3ADT4qIAAAAJ:0EnyYjriUFMC:
     citations: 3
@@ -42,7 +42,7 @@ papers:
     title: BAWEJA, Anubhav CMU-CS-21-133 BOHRER, Rose CMU-CS-21-115 BOLLU, Anand CMU-CS-21-124 CAVALLO, Evan CMU-CS-21-100
     year: Unknown Year
   3ADT4qIAAAAJ:WF5omc3nYNoC:
-    citations: 97
+    citations: 98
     title: Towards scalable edge-native applications
     year: '2019'
   3ADT4qIAAAAJ:Y0pCki6q_DkC:
@@ -82,7 +82,7 @@ papers:
     title: Human-efficient Discovery of Edge-based Training Data for Visual Machine Learning
     year: '2022'
   3ADT4qIAAAAJ:u-x6o8ySG0sC:
-    citations: 104
+    citations: 105
     title: 'Byteslice: Pushing the envelop of main memory data processing with a new storage layout'
     year: '2015'
   3ADT4qIAAAAJ:u5HHmVD_uO8C:
