@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-06'
+  last_updated: '2026-05-25'
 papers:
   3ADT4qIAAAAJ:0EnyYjriUFMC:
     citations: 3
@@ -50,7 +50,7 @@ papers:
     title: Edge-based discovery of training data for machine learning
     year: '2018'
   3ADT4qIAAAAJ:YsMSGLbcyi4C:
-    citations: 35
+    citations: 36
     title: Edge-based live video analytics for drones
     year: '2019'
   3ADT4qIAAAAJ:_FxGoFyzp5QC:
@@ -82,7 +82,7 @@ papers:
     title: Human-efficient Discovery of Edge-based Training Data for Visual Machine Learning
     year: '2022'
   3ADT4qIAAAAJ:u-x6o8ySG0sC:
-    citations: 105
+    citations: 104
     title: 'Byteslice: Pushing the envelop of main memory data processing with a new storage layout'
     year: '2015'
   3ADT4qIAAAAJ:u5HHmVD_uO8C:
@@ -94,6 +94,6 @@ papers:
     title: Edge computing for legacy applications
     year: '2020'
   3ADT4qIAAAAJ:zYLM7Y9cAGgC:
-    citations: 286
+    citations: 288
     title: Bandwidth-efficient live video analytics for drones via edge computing
     year: '2018'
