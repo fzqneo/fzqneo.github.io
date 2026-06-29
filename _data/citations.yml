@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-05'
+  last_updated: '2026-06-15'
 papers:
   3ADT4qIAAAAJ:0EnyYjriUFMC:
     citations: 3
@@ -11,7 +11,7 @@ papers:
     year: '2015'
   3ADT4qIAAAAJ:3fE2CSJIrl8C:
     citations: 1
-    title: Edge-based Privacy-Sensitive Live Learning for Discovery of Training Data
+    title: Edge-Based Privacy-Sensitive Live Learning for Discovery of Training Data
     year: '2023'
   3ADT4qIAAAAJ:5nxA0vEk-isC:
     citations: 0
@@ -42,19 +42,19 @@ papers:
     title: BAWEJA, Anubhav CMU-CS-21-133 BOHRER, Rose CMU-CS-21-115 BOLLU, Anand CMU-CS-21-124 CAVALLO, Evan CMU-CS-21-100
     year: Unknown Year
   3ADT4qIAAAAJ:WF5omc3nYNoC:
-    citations: 94
+    citations: 100
     title: Towards scalable edge-native applications
     year: '2019'
   3ADT4qIAAAAJ:Y0pCki6q_DkC:
-    citations: 31
+    citations: 35
     title: Edge-based discovery of training data for machine learning
     year: '2018'
   3ADT4qIAAAAJ:YsMSGLbcyi4C:
-    citations: 34
+    citations: 36
     title: Edge-based live video analytics for drones
     year: '2019'
   3ADT4qIAAAAJ:_FxGoFyzp5QC:
-    citations: 40
+    citations: 43
     title: 'Openrtist: End-to-end benchmarking for edge computing'
     year: '2020'
   3ADT4qIAAAAJ:d1gkVwhDpl0C:
@@ -70,7 +70,7 @@ papers:
     title: 2021 Theses by Author
     year: Unknown Year
   3ADT4qIAAAAJ:kNdYIx-mwKoC:
-    citations: 4
+    citations: 6
     title: Low-bandwidth self-improving transmission of rare training data
     year: '2023'
   3ADT4qIAAAAJ:qjMakFHDy7sC:
@@ -82,7 +82,7 @@ papers:
     title: Human-efficient Discovery of Edge-based Training Data for Visual Machine Learning
     year: '2022'
   3ADT4qIAAAAJ:u-x6o8ySG0sC:
-    citations: 103
+    citations: 105
     title: 'Byteslice: Pushing the envelop of main memory data processing with a new storage layout'
     year: '2015'
   3ADT4qIAAAAJ:u5HHmVD_uO8C:
@@ -90,10 +90,10 @@ papers:
     title: Accelerating aggregation using intra-cycle parallelism
     year: '2015'
   3ADT4qIAAAAJ:ufrVoPGSRksC:
-    citations: 21
+    citations: 22
     title: Edge computing for legacy applications
     year: '2020'
   3ADT4qIAAAAJ:zYLM7Y9cAGgC:
-    citations: 274
+    citations: 290
     title: Bandwidth-efficient live video analytics for drones via edge computing
     year: '2018'
