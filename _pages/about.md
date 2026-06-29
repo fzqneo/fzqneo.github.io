@@ -28,6 +28,6 @@ I work at Google Deepmind in Mountain View, California. My current focus is on G
 
 I received my PhD in Computer Science from Carnegie Mellon University, advised by Prof. [Mahadev Satyanarayanan](https://www.cs.cmu.edu/~satya/), where I researched mobile-edge computing and computer vision applications. I received MPhil, advised by Prof. [Eric Lo](https://www.cse.cuhk.edu.hk/~ericlo), and BSc from the Hong Kong Polytechnic University, where I researched architecture-aware database systems. I was awarded the [Croucher Foundation Doctoral Scholarship](https://croucher.org.hk/en/news/welcome-croucher-class-of-2017) along with seven other recipients in 2017.
 
-Email: (@ zqfeng (. google com))  
+Email: (@ ziqiangfeng777 (. gmail com))  
 
 
