@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-15'
+  last_updated: '2026-07-01'
 papers:
   3ADT4qIAAAAJ:0EnyYjriUFMC:
     citations: 3
@@ -25,6 +25,10 @@ papers:
     citations: 4
     title: 'Eva: An efficient system for exploratory video analysis'
     year: '2018'
+  3ADT4qIAAAAJ:KlAtU1dfN6UC:
+    citations: 1
+    title: 'CATWILD: Compiler Autotuning for TPU workloads in the Wild'
+    year: '2026'
   3ADT4qIAAAAJ:MXK_kJrjxJIC:
     citations: 0
     title: Semantic Fast-Forwarding for Video Training Set Construction
@@ -46,7 +50,7 @@ papers:
     title: Towards scalable edge-native applications
     year: '2019'
   3ADT4qIAAAAJ:Y0pCki6q_DkC:
-    citations: 35
+    citations: 34
     title: Edge-based discovery of training data for machine learning
     year: '2018'
   3ADT4qIAAAAJ:YsMSGLbcyi4C:
@@ -94,6 +98,6 @@ papers:
     title: Edge computing for legacy applications
     year: '2020'
   3ADT4qIAAAAJ:zYLM7Y9cAGgC:
-    citations: 290
+    citations: 291
     title: Bandwidth-efficient live video analytics for drones via edge computing
     year: '2018'
