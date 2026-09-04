@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-28'
+  last_updated: '2026-09-04'
 papers:
   3ADT4qIAAAAJ:0EnyYjriUFMC:
     citations: 2
@@ -98,6 +98,6 @@ papers:
     title: Edge computing for legacy applications
     year: '2020'
   3ADT4qIAAAAJ:zYLM7Y9cAGgC:
-    citations: 291
+    citations: 292
     title: Bandwidth-efficient live video analytics for drones via edge computing
     year: '2018'
